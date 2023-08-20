@@ -1,8 +1,8 @@
 # Olá, meu nome é Vinícius Gonçalves.
 ### Tenho 17 anos.
 ### Estudo programação desde agosto de 2021.
-Gosto de trabalhar em grupo, sou bem organizado quanto as minhas obrigações e horários e adoro contribuir com a realização de ideias. Possuo interesse em estagiar na área e construir uma carreira.
-Estou sempre entregando o melhor que posso, e a cada dia ser melhor que o anterior.
+Gosto de trabalhar em grupo, sou bem organizado quanto as minhas obrigações e horários e adoro contribuir com a realização de ideias.
+Estou sempre entregando o melhor que posso, e fazendo cada dia ser melhor que o anterior.
 
 ![Vinícius Gonçalves](https://github-readme-stats.vercel.app/api?username=vinicius-g&show_icons=true&theme=radical)
 
